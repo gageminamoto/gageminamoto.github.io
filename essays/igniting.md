@@ -1,19 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "Why I decided to major in MIS"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
+date: 2022-08-29
 published: true
 labels:
   - Software Engineering
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+While I realize a specific degree in Graphic Design would prove helpful, I foresee myself doing more than just graphic designing. However, in my outlook on the job market in the future, I think it is very likely that a significant portion of the job market will be remote. The general nine to five will not be the only dominating template for workers. Because of this, I believe being well-rounded in various skills for internet content creation will almost become a must. For example, besides graphic design, one might also need to know the basics of UX design, photography, social analytics, etc. Whether you work for a company, the being will learn new skills and value them over some specialists.
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+The Shidler's Management Information Systems Degree or MIS is a common and recommended degree for product design. While the degree is often general in its material, covering many aspects of information technologies (IT), it can be used as a launching platform in UX design. Moreover, if I pivot my career path, the degree can be used in a variety of business firms as one of every kind utilizing IT. Many firms will not only continue to further their operations with IT but expand their systems to meet the demand for new technologies. According to the Bureau of Labor Statistics, MIS-related careers are forecasted to have increased job growth in the upcoming years. MIS has recently become popular as likely major stems from the ever-expanding career in MIS. Careers can span from project management to system architecture and design.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
-
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+After speaking with my business advisor, I learned that the MIS pathway is straightforward and leaves plenty of credits open to electives of my choosing. Luckily this means I have the option to minor in art or take additional classes related to design and coding. Learning these benefits made MIS an easy choice and my main major here at UH.
