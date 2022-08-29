@@ -6,7 +6,7 @@ title: "Auto Biography"
 date: 2022-08-29
 published: true
 labels:
-  - Biogarphy
+  - Biography
 ---
 
 Hey, it's Gage, Graphic Designer & Portrait photographer based in Honolulu, Hawaii. I first picked up a camera four years ago and haven't looked back since. I've always wanted his work to give viewers a glimpse into a subject's world. While standing out in today’s landscape isn't easy, I aim to create work that my clients and I can be proud of.
