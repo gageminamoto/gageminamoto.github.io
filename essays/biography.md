@@ -13,7 +13,7 @@ Hey, it's Gage, Graphic Designer & Portrait photographer based in Honolulu, Hawa
 
 When I'm not out with a client, I'm out at the skatepark, at the beach, designing at work, or out with friends. I'm is currently studying Management Information Systems at the University of Hawaiʻi at Mānoa. 
 <br>
-<p>**Favorite Food**: Oreo Pie & Tsukumen</p>
-<p>**Favorite Place to Travel**: Tokyo, Japan</p>
-<p>**Hobbies**: Skateboarding, Anime, Valorant, Board Games, Hiking</p>
-<p>**Inspiration**: Japanese Animation, Vintage Movie Posters</p>
+<p><b>Favorite Food:</b> Oreo Pie & Tsukumen</p>
+<p><b>Favorite Place to Travel:</b> Tokyo, Japan</p>
+<p><b>Hobbies:</b> Skateboarding, Anime, Valorant, Board Games, Hiking</p>
+<p><b>Inspiration:</b> Japanese Animation, Vintage Movie Posters</p>
