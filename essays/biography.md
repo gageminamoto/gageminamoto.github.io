@@ -9,9 +9,9 @@ labels:
   - Biography
 ---
 
-Hey, it's Gage, Graphic Designer & Portrait photographer based in Honolulu, Hawaii. I first picked up a camera four years ago and haven't looked back since. I've always wanted his work to give viewers a glimpse into a subject's world. While standing out in today’s landscape isn't easy, I aim to create work that my clients and I can be proud of.
+Gage is a student graphic designer and with 7+ years of experience in print and digtal design. He's currently studying Management Information Systems at the University of Hawaiʻi at Mānoa.  He is studying Management Information Systems at the University of Hawaii at Manoa. Excited to study web design and typography. He is currently working on personal projects exploring Esports design and poster design. After college, Gage hopes to work for a company in the Esports industry.
 
-When I'm not out with a client, I'm out at the skatepark, at the beach, designing at work, or out with friends. I'm is currently studying Management Information Systems at the University of Hawaiʻi at Mānoa. 
+When he's not out in class, he's out at the skatepark, at the beach, designing in a coffee shop, taking portraits or out with friends. 
 <br>
 <p><b>Favorite Food:</b> Oreo Pie & Tsukumen</p>
 <p><b>Favorite Place to Travel:</b> Tokyo, Japan</p>
