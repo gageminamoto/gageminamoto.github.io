@@ -50,7 +50,7 @@
 	],
 	"skills": [{
 			"name": "Languages and Frameworks",
-			"keywords": ["HTML", "CSS"]
+			"keywords": ["HTML", "CSS", "Javascript"]
 		},
 		{
 			"name": "Toolsets/OS",
