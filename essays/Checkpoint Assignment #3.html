@@ -1,0 +1,91 @@
+---
+layout: essay
+type: essay
+title: "Checkpoint Assignment #3"
+# All dates must be YYYY-MM-DD format!
+date: 2022-11-24
+published: true
+labels:
+- Checkpoint
+---
+
+<!-- Create a Powerpoint screencast presentation covering the areas below. Create a BLOG entry in your portfolio with a link to your screencast -->
+
+<ol>
+  <!-- Question 1 -->
+  <li><B>Show what each page will look like. The pages do not have to be “functional” but the design should be
+      clear.</B></li>
+  <!-- Image of Wireframe -->
+  <img src="https://drive.google.com/uc?export=view&id=1tkailQtbZXdMdXtS5Sb5GjFoG3i7lhnF">
+  <BR>
+  <!-- Question 2 -->
+  <li><b>Describe your design for your site’s shopping cart. Will it be a separate page that the user can view and edit,
+      or will it be integrated into the product pages? If so, describe in detail how this will work on your site.
+      Provide several examples of using the cart.</b></li>
+  <p>Before the user is logged in, they can view the products, home, and the about page. The user can add to the cart,
+    and the cart counter will go up. Once done shopping, they can click the cart to go to the shopping cart page. To
+    check, the user must be logged in: if they aren't logged in, it will take them to the login page. Users can remove
+    items and select a higher quantity than the default one. It should limit them to the amount available. Once done
+    editing their cart, the user will click purchase. Then once logged in, they may check out and view their invoice.
+  </p>
+  <BR>
+  <p>A user may want to buy shoes from multiple brands. The site will allow users to add shoes from three brands. For
+    every shoe added to the cart, the item counter will increase by 1. Then if they want to purchase multiple of one
+    shoe, they can change the quantity on the shopping car page. Say the user decides they want to add another shoe.
+    They may go back to the products page and add more shoes. And if the user decides they no longer want a shoe, they
+    can go back to the shopping cart and use the remove button.</p>
+  <BR>
+  <!-- Question 3 -->
+  <li><b>Explain specifically how you will use sessions to manage your shopping cart. In particular, what shopping cart
+      data will be stored in the session, and what data format will be used (NOT what data type, but the format like
+      with the data format used for your registration data). Use code examples showing what data structures (such as
+      arrays and their objects) you will use to manage the shopping cart data and how they will be used in a
+      session.</b></li>
+  <p>I would have the app.get login and then request.session.shopping_cart have the products the user adds be in a
+    shopping cart array. The shopping cart array would be stored in the session so they could move from page to page,
+    and the session data would remain on the server. When they're ready to check out then, they make their final edits
+    and addtions to the shopping cart array and then print the personalized invoice.</p>
+  <p>Here’s an example of the product array and the objects stored within the array to store product data. The data's
+    reorganization makes it easier to look up a certain product.</p>
+  <code>"Nike":[ 
+      {
+          "name": "Nike React",
+          "price": 89
+      },
+      {
+          "name": "Nike Boost",
+          "price": 80
+      },
+      {
+          "name": "Nike Run",
+          "price": 105
+      }
+  ],
+</code>
+
+  <BR>
+  <!-- Question 4 -->
+  <li><b>How will you avoid access to your application when the user has not logged in or registered? What are the
+      particular security concerns you must address?</b></li>
+  <p>I will use an if statement checking if the current session has the user’s status as a successful login. The status
+    will change on the server; the user can’t manually change the status without a successful login. Users can see their
+    invoice if they pass the “if statement “on the server. </p>
+  <p>I must address if the user were to be inactive on my site. Say they were logged in on a public device like, at the
+    library, and their account could be compromised. To combat this, I have the server check if the user has been
+    inactive for more than 10mins. If the user is, then it will log them out.</p>
+  <p>Session and cookies will be used to check whether a user has logged in. This way it won’t matter where the user was
+    redirected from, like in the prior assignment. I also must make sure all my passwords are stored with encryption.
+  </p>
+  <BR>
+  <!-- Question 5 -->
+  <li><b>Upon successful login, how do you provide personalization in your UI? Explain how you did or will do this (paste code if necessary)</b></li>
+  <p>Upon successful login, underneath the nav bar, there will be a display, “Welcome <Full_Name>,” and the status says the user is logged in. There will also be an item counter in the nav bar to show the user how many different kinds of shoes they’ve added. Moreover, their name will be displayed on the invoice, thanking them for their order. The invoice will also display the number of users logged in.</p>
+  <BR>
+  <!-- Question 6 -->
+  <li><b>How are you approaching Assignment 3 differently than Assignment 2?</b></li>
+  <p>I plan to create all my tickets before starting the project to fully utilize the agile method. Last time I underestimated the number of features I needed to implement and was working on the project whenever I had time. This time around, I want to know exactly what I need to implement and be able to plan out and set goals for myself. </p>
+  <BR>
+
+<!-- Screencast -->
+
+</ol>
