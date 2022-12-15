@@ -1,0 +1,146 @@
+{
+	"basics": {
+		"name": "Gage Minamoto",
+		"label": "Shidler Undergraduate",
+		"picture": "https://github.com/gageminamoto.png",
+		"email": "gagee@hawaii.edu",
+		"website": "https://gageminamoto.github.io",
+		"summary": "I am studying for a BBA in Management Informational Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Fall, 2023.",
+		"location": {
+			"address": "",
+			"postalCode": "",
+			"city": "Honolulu",
+			"countryCode": "USA",
+			"region": "Hawaii"
+		},
+		"profiles": [{
+				"network": "github",
+				"username": "gageminamoto",
+				"url": "http://github.com/gageminamoto"
+			},
+			{
+				"network": "linkedin",
+				"username": "gageminamoto",
+				"url": "http://linkedin.com/in/gageminamoto"
+			},
+			{
+				"network": "twitter",
+				"username": "gageminamoto",
+				"url": "http://twitter.com/gageminamoto"
+			},
+			{
+				"network": "instagram",
+				"username": "gage.minamoto",
+				"url": "http://instagram.com/gage.minamoto"
+			}
+		]
+	},
+	"interests": [{
+			"name": "Graphic Design"
+		},
+		{
+			"name": "Photography"
+		},
+		{
+			"name": "Competitive Esports"
+		},
+		{
+			"name": "Skateboarding"
+		}
+	],
+	"skills": [{
+			"name": "Languages and Frameworks",
+			"keywords": ["HTML", "CSS", "Javascript"]
+		},
+		{
+			"name": "Toolsets/OS",
+			"keywords": ["MacOS", "Notion", "Git/GitHub"]
+		}
+	],
+	"education": [{
+		"institution": "University of Hawaii, Honolulu, HI",
+		"area": "Management Information Systems (expected Fall, 2023)",
+		"studyType": "M.I.S.",
+		"startDate": "2019-08-01",
+		"endDate": "Present",
+		"courses": []
+	}],
+	"work": [{
+			"company": "Academy for Creative Media",
+			"position": "Web Developer, Student Assistant",
+			"website": "http://acmsystem.hawaii.edu/",
+			"startDate": "2022-04-01",
+			"endDate": "Present",
+			"summary": "Updating and maintaining the ACM System website, including design, content, and backend programming.",
+			"highlights": [
+				"Collaborate across all ACM programs on various campuses to gather and compile content",
+				"Track and manage website pages while maintaining quality, editorial standards, and consistency"
+			]
+		},
+		{
+			"company": "UH Campus Center Graphics",
+			"position": "Graphic Design Trainee",
+			"website": "https://uhmccg.wixsite.com/graphics",
+			"startDate": "2021-07-01",
+			"endDate": "2022-05-01",
+			"summary": "Print design, banner and poster crafting, client communication, and customer service for UHM’s Campus Center Graphics.",
+			"highlights": [
+				"Completed over 20 client projects using extensive print and copy layout knowledge required to work with various print mediums.",
+				"Independently and collaborated with design team on designs."
+			]
+		}
+	],
+	"volunteer": [{
+			"organization": "Activision Blizzard",
+			"website": "",
+			"position": "Overwatch League Midseason Madness 2022 Intern",
+			"startDate": "2022-07-15",
+			"endDate": "2022-07-24",
+			"summary": "Assisted and managed a live tournament under Activision Blizzard for the Overwatch League 2022 Midseason Madness.",
+			"highlights": [
+				"Live event spanning over one week with a $1,000,000 Prize Pool.",
+				"Learned from OWL Staff about Esport Operations, Systems Engineering, Event Management, and Content Creation."
+			]
+		},
+		{
+			"organization": "UH Esports Content Team",
+			"website": "https://www.hawaii.edu/esports/",
+			"position": "Valorant Content Creator",
+			"startDate": "2021-11-01",
+			"endDate": "Present",
+			"summary": "Directing the program’s Design Style Guidelines to streamline content creation and brand representation.",
+			"highlights": [
+				"Conceptualizing and designing content media projects for the University of Hawai’i Esports Program ",
+				"Manage and collaborate with a content production team to craft social media content for an audience of gamers over a thousand."
+			]
+		},
+		{
+			"organization": "Oak + Pine Society",
+			"website": "https://oakpineco.com/",
+			"position": "Graphic Design Intern",
+			"startDate": "2022-04-01",
+			"endDate": "2022-05-01",
+			"summary": "Developed Instagram posts adhering to brand design guidelines.",
+			"highlights": [
+				"Collaborated with CEO on 5 collaboration graphic templates for brand’s social media.",
+				"Reached an audience of over 2.4k."
+			]
+		}
+	],
+	"awards": [{
+			"title": "UHM Dean's List Spring ",
+			"date": "2022",
+			"awarder": "University of Hawaii at Manoa",
+			"summary": ""
+		},
+		{
+			"title": "Summa Cum Laude Valedictorian ",
+			"date": "2020",
+			"awarder": "President Theodore Roosevelt High School",
+			"summary": ""
+		}
+	],
+	"references": [{
+		"name": "Available upon request"
+	}]
+}
